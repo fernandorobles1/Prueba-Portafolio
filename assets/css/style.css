@@ -69,8 +69,6 @@ header {
 .carousel-indicators li {
     width: 10px;
     height: 10px;
-    border-radius: 50%;
-    background-color: black;
     padding-bottom: 25px;
 }
 .carousel-indicators .active {
